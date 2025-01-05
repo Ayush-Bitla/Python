@@ -59,9 +59,38 @@ Welcome to my Python Learning repository! This is a personal project where I exp
 
 ---
 
+### **Day 3**
+
+#### 1. [`functions.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day3/functions.py)
+- Introduces Python functions with examples:
+  - Basic function definition and calling.
+  - Default arguments for functions.
+  - Usage of `*args` for handling multiple positional arguments.
+  - Usage of `**kwargs` for handling named arguments.
+- Provides examples for adding numbers and handling multiple items as arguments.
+
+#### 2. [`loops.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day3/loops.py)
+- Demonstrates Python loops:
+  - `while` loops with conditions, and handling special cases like `break` and `continue`.
+  - `for` loops iterating over lists and ranges.
+  - Nested loops to combine two or more loops for different actions.
+  - The use of `else` with loops.
+- Includes examples of printing a range of numbers and names with corresponding actions using nested loops.
+
+#### 3. [`rock_paper_scissors_2.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day3/rps2.py)
+- An enhanced version of the classic Rock-Paper-Scissors game:
+  - Uses Python's `enum` module to define possible moves (Rock, Paper, Scissors).
+  - Generates a random choice for the computer.
+  - Includes input validation for user input.
+  - Provides options to replay the game and handles input for playing again or quitting.
+  - Displays the result of the game based on user choice and computer choice.
+
+---
+
 ## 🧠 What I've Learned
 - **Day 1**: Basics of Python programming, including variables, data types, and conditional statements.
 - **Day 2**: Advanced data structures like dictionaries, sets, lists, and tuples.
+- **Day 3**: Function definitions and arguments, looping constructs, and creating interactive games.
 
 ---
 
@@ -76,6 +105,3 @@ Welcome to my Python Learning repository! This is a personal project where I exp
 ## Stay tuned for more updates as I continue my Python learning journey! 🚀
 
 - Feel free to make edits or additions to personalize further! 😊
-
-- This version now includes your additional instructions for navigating and running the scripts. 😊
-
