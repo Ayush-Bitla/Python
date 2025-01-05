@@ -87,10 +87,45 @@ Welcome to my Python Learning repository! This is a personal project where I exp
 
 ---
 
+### **Day 4**
+
+#### 1. [`example.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day4/example.py)
+- Demonstrates the use of `while` loops and `break` and `continue` statements.
+  - The loop continues until a certain condition is met, with `count` being incremented each time.
+  - Includes a conditional check to break the loop at a specific count.
+
+#### 2. [`recursion.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day4/recursion.py)
+- Introduces recursion by defining a function `add_one()`:
+  - Recursively adds 1 to a number until a base condition is met.
+  - Demonstrates the importance of base cases to prevent infinite recursion.
+  - Shows how recursion can be used to perform repeated actions.
+
+#### 3. [`rps3.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day4/rps3.py) (Rock-Paper-Scissors Game)
+- An implementation of the classic "Rock-Paper-Scissors" game:
+  - Uses recursion for replaying the game.
+  - Implements a `while` loop to validate user input for game choices.
+  - The game continues until the player chooses to quit.
+
+#### 4. [`rps4.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day4/rps4.py) (Rock-Paper-Scissors Game with Game Count)
+- Enhances the "Rock-Paper-Scissors" game by adding a game counter:
+  - Tracks the number of games played.
+  - The `decide_winner()` function is separated to handle the logic of determining the winner.
+  - Displays the total number of games played at the end of each round.
+
+#### 5. [`scope.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day4/scope.py)
+- Demonstrates the concepts of variable scope in Python:
+  - Uses the `global` keyword to modify a global variable.
+  - Uses the `nonlocal` keyword to modify a variable in the nearest enclosing scope.
+  - Shows how different scopes interact with variables in nested functions.
+
+---
+
 ## 🧠 What I've Learned
 - **Day 1**: Basics of Python programming, including variables, data types, and conditional statements.
 - **Day 2**: Advanced data structures like dictionaries, sets, lists, and tuples.
 - **Day 3**: Function definitions and arguments, looping constructs, and creating interactive games.
+- **Day 4**: Recursion, global and nonlocal variable scopes, and enhanced interactive games (Rock-Paper-Scissors) with additional features like game count and input validation.
+
 
 ---
 
