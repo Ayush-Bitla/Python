@@ -33,12 +33,35 @@ Welcome to my Python Learning repository! This is a personal project where I exp
 - Introduces header/footer design and code reusability.
 
 ---
+### **Day 2**
+#### 1. [`dictionaries.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day2/dictionaries.py)
+- Explores Python dictionaries and their key-value operations:
+  - **Creating Dictionaries**: Using curly braces and the `dict()` constructor.
+  - **Accessing and Modifying Data**: Using keys, `.get()`, and `.update()`.
+  - **Nested Dictionaries**: Storing complex data structures.
+
+#### 2. [`sets.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day2/sets.py)
+- Introduces Python sets and their unique characteristics:
+  - **Creating Sets**: Using curly braces or the `set()` constructor.
+  - **Set Operations**: Union, intersection, difference, and symmetric difference.
+  - **Updating Sets**: Using `.add()` and `.update()` methods.
+
+#### 3. [`lists.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day2/lists.py)
+- Delves into Python lists and their operations:
+  - **Adding Elements**: Using `.append()` and `.extend()`.
+  - **Slicing and Sorting**: Utilizing slicing to modify lists and `.sort()` to arrange elements.
+  - **Multi-type Lists**: Handling lists with mixed data types.
+
+#### 4. [`tuples.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day2/tuples.py)
+- Explains tuples and their immutability:
+  - **Creating Tuples**: Using parentheses or the `tuple()` constructor.
+  - **Unpacking Tuples**: Using unpacking techniques for assigning values.
+
+---
 
 ## 🧠 What I've Learned
-- Python basics: Variables, data types, and string manipulation.
-- Conditional statements and ternary operators.
-- Randomized input and working with enumerations.
-- Structuring Python scripts for readability and functionality.
+- **Day 1**: Basics of Python programming, including variables, data types, and conditional statements.
+- **Day 2**: Advanced data structures like dictionaries, sets, lists, and tuples.
 
 ---
 
@@ -46,4 +69,13 @@ Welcome to my Python Learning repository! This is a personal project where I exp
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ayush-Bitla/Python.git
-   cd Python/Day1
+   cd Python
+
+---
+
+## Stay tuned for more updates as I continue my Python learning journey! 🚀
+
+- Feel free to make edits or additions to personalize further! 😊
+
+- This version now includes your additional instructions for navigating and running the scripts. 😊
+
