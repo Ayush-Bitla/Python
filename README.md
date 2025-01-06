@@ -120,11 +120,36 @@ Welcome to my Python Learning repository! This is a personal project where I exp
 
 ---
 
+## **Day 5**
+
+### **1. [closures.py](https://github.com/Ayush-Bitla/Python/blob/main/Day5/closures.py)**  
+- Demonstrates how closures retain access to parent function variables after the parent function has returned.  
+  - Explains the concept with examples of nested functions.  
+  - Highlights practical applications such as maintaining state in callbacks.
+
+### **2. [string_formatting.py](https://github.com/Ayush-Bitla/Python/blob/main/Day5/string_formatting.py)**  
+- Covers various string formatting methods:  
+  - `f-strings` for efficient and flexible formatting.  
+  - `str.format()` method and `%` formatting for compatibility.
+
+### **3. [enum_usage.py](https://github.com/Ayush-Bitla/Python/blob/main/Day5/enum_usage.py)**  
+- Explores the use of `Enum` for better representation of constants in Python.  
+  - Demonstrates defining enums and accessing their attributes.  
+  - Shows how enums improve code readability and maintainability.
+
+### **4. [interactive_game.py](https://github.com/Ayush-Bitla/Python/blob/main/Day5/interactive_game.py)**  
+- Implements a game using closures and `nonlocal` effectively to maintain and update state.  
+  - Demonstrates how closures can simplify state management in interactive applications.  
+  - Provides insights into writing cleaner and more modular code using closures.
+     
+---
+
 ## 🧠 What I've Learned
 - **Day 1**: Basics of Python programming, including variables, data types, and conditional statements.
 - **Day 2**: Advanced data structures like dictionaries, sets, lists, and tuples.
 - **Day 3**: Function definitions and arguments, looping constructs, and creating interactive games.
 - **Day 4**: Recursion, global and nonlocal variable scopes, and enhanced interactive games (Rock-Paper-Scissors) with additional features like game count and input validation.
+- **Day 5**: How closures retain access to parent variables, efficient string formatting with f-strings, leveraging Enum for constants, and using closures with nonlocal for state management in interactive games
 
 
 ---
