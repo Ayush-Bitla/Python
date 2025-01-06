@@ -120,24 +120,23 @@ Welcome to my Python Learning repository! This is a personal project where I exp
 
 ---
 
-## **Day 5**
-
-### **1. [closures.py](https://github.com/Ayush-Bitla/Python/blob/main/Day5/closures.py)**  
+### **Day 5**
+#### **1. [closures.py](https://github.com/Ayush-Bitla/Python/blob/main/Day5/closures.py)**  
 - Demonstrates how closures retain access to parent function variables after the parent function has returned.  
   - Explains the concept with examples of nested functions.  
   - Highlights practical applications such as maintaining state in callbacks.
 
-### **2. [string_formatting.py](https://github.com/Ayush-Bitla/Python/blob/main/Day5/string_formatting.py)**  
+#### **2. [string_formatting.py](https://github.com/Ayush-Bitla/Python/blob/main/Day5/string_formatting.py)**  
 - Covers various string formatting methods:  
   - `f-strings` for efficient and flexible formatting.  
   - `str.format()` method and `%` formatting for compatibility.
 
-### **3. [enum_usage.py](https://github.com/Ayush-Bitla/Python/blob/main/Day5/enum_usage.py)**  
+#### **3. [enum_usage.py](https://github.com/Ayush-Bitla/Python/blob/main/Day5/enum_usage.py)**  
 - Explores the use of `Enum` for better representation of constants in Python.  
   - Demonstrates defining enums and accessing their attributes.  
   - Shows how enums improve code readability and maintainability.
 
-### **4. [interactive_game.py](https://github.com/Ayush-Bitla/Python/blob/main/Day5/interactive_game.py)**  
+#### **4. [interactive_game.py](https://github.com/Ayush-Bitla/Python/blob/main/Day5/interactive_game.py)**  
 - Implements a game using closures and `nonlocal` effectively to maintain and update state.  
   - Demonstrates how closures can simplify state management in interactive applications.  
   - Provides insights into writing cleaner and more modular code using closures.
