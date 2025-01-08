@@ -143,12 +143,71 @@ Welcome to my Python Learning repository! This is a personal project where I exp
      
 ---
 
+### Day 6: Python Projects and Games
+
+#### 1. [`hello_person.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day6/hello_person.py)
+- Provides personalized greetings in different languages.
+- Features:
+  - Accepts a name and language as command-line arguments.
+  - Outputs a greeting based on the selected language.
+- Highlights:
+  - Uses `argparse` for parsing command-line arguments.
+  - Demonstrates a dictionary-based approach to store greetings.
+
+---
+
+#### 2. [`kansas.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day6/kansas.py)
+- A script highlighting fun facts about Kansas.
+- Features:
+  - Contains constants like the capital, state bird, flower, and song.
+  - Includes a function `randomfunfact()` to display random fun facts about Kansas.
+- Highlights:
+  - Uses Python's `random` module to select a fun fact.
+
+---
+
+#### 3. [`modules.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day6/modules.py)
+- Demonstrates the use of Python modules and importing.
+- Features:
+  - Imports and uses `math`, `random`, `kansas`, and `rps7` modules.
+  - Prints the value of `pi` from the `math` module.
+  - Calls `randomfunfact()` from `kansas.py`.
+  - Executes the `rock_paper_scissors` function from `rps7.py`.
+- Highlights:
+  - Explores the `__name__` attribute for module execution.
+
+---
+
+#### 4. [`rps7.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day6/rps7.py)
+- Implements the "Rock-Paper-Scissors" game.
+- Features:
+  - Tracks game count, player wins, and Python wins.
+  - Utilizes recursion to replay the game.
+  - Uses `Enum` for better representation of choices.
+- Highlights:
+  - Incorporates `nonlocal` variables for maintaining state within nested functions.
+
+---
+
+#### 5. [`rps8.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day6/rps8.py)
+- Enhances the "Rock-Paper-Scissors" game with personalized gameplay.
+- Features:
+  - Accepts a player's name via command-line arguments.
+  - Personalized prompts and messages using the provided name.
+  - Tracks the player's and Python's wins.
+- Highlights:
+  - Leverages `argparse` for command-line input.
+  - Demonstrates the combination of `Enum`, recursion, and `nonlocal` for a seamless gaming experience.
+
+---
+
 ## 🧠 What I've Learned
 - **Day 1**: Basics of Python programming, including variables, data types, and conditional statements.
 - **Day 2**: Advanced data structures like dictionaries, sets, lists, and tuples.
 - **Day 3**: Function definitions and arguments, looping constructs, and creating interactive games.
 - **Day 4**: Recursion, global and nonlocal variable scopes, and enhanced interactive games (Rock-Paper-Scissors) with additional features like game count and input validation.
 - **Day 5**: How closures retain access to parent variables, efficient string formatting with f-strings, leveraging Enum for constants, and using closures with nonlocal for state management in interactive games
+- **Day 6**: Key learnings: argparse for command-line arguments, dictionary-based lookups, Enum for constants, recursion with nonlocal, and exploring module imports with __name__.
 
 
 ---
