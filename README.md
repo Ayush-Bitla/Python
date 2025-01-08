@@ -154,8 +154,6 @@ Welcome to my Python Learning repository! This is a personal project where I exp
   - Uses `argparse` for parsing command-line arguments.
   - Demonstrates a dictionary-based approach to store greetings.
 
----
-
 #### 2. [`kansas.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day6/kansas.py)
 - A script highlighting fun facts about Kansas.
 - Features:
@@ -163,8 +161,6 @@ Welcome to my Python Learning repository! This is a personal project where I exp
   - Includes a function `randomfunfact()` to display random fun facts about Kansas.
 - Highlights:
   - Uses Python's `random` module to select a fun fact.
-
----
 
 #### 3. [`modules.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day6/modules.py)
 - Demonstrates the use of Python modules and importing.
@@ -176,8 +172,6 @@ Welcome to my Python Learning repository! This is a personal project where I exp
 - Highlights:
   - Explores the `__name__` attribute for module execution.
 
----
-
 #### 4. [`rps7.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day6/rps7.py)
 - Implements the "Rock-Paper-Scissors" game.
 - Features:
@@ -186,8 +180,6 @@ Welcome to my Python Learning repository! This is a personal project where I exp
   - Uses `Enum` for better representation of choices.
 - Highlights:
   - Incorporates `nonlocal` variables for maintaining state within nested functions.
-
----
 
 #### 5. [`rps8.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day6/rps8.py)
 - Enhances the "Rock-Paper-Scissors" game with personalized gameplay.
