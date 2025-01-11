@@ -193,7 +193,7 @@ Welcome to my Python Learning repository! This is a personal project where I exp
 
 ---
 
-###Day 7:
+### **Day 7**:
 
 ---
 
