@@ -193,6 +193,10 @@ Welcome to my Python Learning repository! This is a personal project where I exp
 
 ---
 
+###Day 7:
+
+---
+
 ## 🧠 What I've Learned
 - **Day 1**: Basics of Python programming, including variables, data types, and conditional statements.
 - **Day 2**: Advanced data structures like dictionaries, sets, lists, and tuples.
