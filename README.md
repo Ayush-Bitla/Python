@@ -193,7 +193,41 @@ Welcome to my Python Learning repository! This is a personal project where I exp
 
 ---
 
-### **Day 7**:
+### **Day 7: Arcade Games and Functional Programming**
+
+#### [`arcade.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day7/arcade.py)
+- Acts as a hub for multiple games, including "Rock-Paper-Scissors" and "Guess My Number."
+- **Features**:
+  - Command-line interface for a seamless gaming experience.
+  - Personalized gameplay with player names.
+- **Highlights**:
+  - Modular design by integrating multiple games.
+  - Uses `argparse` for dynamic user input.
+
+#### [`rps.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day7/rps.py)
+- A refined "Rock-Paper-Scissors" game.
+- **Features**:
+  - Accepts the player’s name via command-line arguments.
+  - Tracks the player's and Python's wins.
+- **Highlights**:
+  - Leverages `Enum` for representing choices.
+  - Demonstrates recursion with `nonlocal` variables.
+
+#### [`guess_number.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day7/guess_number.py)
+- A number-guessing game.
+- **Features**:
+  - Tracks the player’s success rate.
+  - Replay option after each round.
+- **Highlights**:
+  - Engaging gameplay with input validation and intuitive error handling.
+
+#### [`lambda.py`](https://github.com/Ayush-Bitla/Python/blob/main/Day7/lambda.py)
+- A script showcasing the power of **lambda functions** in Python.
+- **Features**:
+  - Examples of mathematical and list-based operations using `map`, `filter`, and `reduce`.
+- **Highlights**:
+  - Illustrates functional programming utilities for concise code.
+
 
 ---
 
@@ -204,6 +238,7 @@ Welcome to my Python Learning repository! This is a personal project where I exp
 - **Day 4**: Recursion, global and nonlocal variable scopes, and enhanced interactive games (Rock-Paper-Scissors) with additional features like game count and input validation.
 - **Day 5**: How closures retain access to parent variables, efficient string formatting with f-strings, leveraging Enum for constants, and using closures with nonlocal for state management in interactive games
 - **Day 6**: Key learnings: argparse for command-line arguments, dictionary-based lookups, Enum for constants, recursion with nonlocal, and exploring module imports with __name__.
+- **Day 7**: Modular code design for arcade games, and lambda functions for concise operations.
 
 
 ---
